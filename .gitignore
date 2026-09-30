@@ -1,0 +1,11 @@
+# Modèle entraîné (fichier lourd, à régénérer)
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Éditeur
+.vscode/
